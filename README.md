@@ -7,14 +7,14 @@ I am thoughtful, open-minded, and I am always willing to learn.
 
 ### SKILLS
 
-- Object oriented programming: Clean Code, Clean Architecture, SOLID principles and Testing. Data modeling and APIs.
+- Programming: OOP, Clean Code, Clean Architecture, SOLID principles, Testing, data modeling and APIs.
 - Languages: PHP, Javascript.
-- Testing tools: PhpUnit, Behat, Robot, Gherkin, Jasmine, Cypress.
-- Database: Mainly Sql (Oracle and MySql) and some noSql with MongoDb or ElasticSearch.
-- Processes: Agile environments, Scrum, Jenkins, CI & CD, Git, Gitlab, Github.
-- Frameworks: Zend, Laravel, FuelPhp and React.
+- Testing tools: PhpUnit, Cypress, Robot framework, Behat.
+- Database: MySql and some noSql with MongoDb and ElasticSearch.
+- Processes: Agile (Scrum), Jenkins, CI & CD, Git, GitlabCI.
+- Frameworks: Zend, Laravel, FuelPhp and some React and Angular.
 
-I write code in my spare time using Java, Python, C, C#, Bash Shell Scripting, Node.js, Django, MongoDb, Angular, Rust, Clojure or Lisp.
+I write code in my spare time using Java, Python, C, C#, Bash Shell Scripting, Node.js, Django, Rust, Clojure or Lisp.
 
 ### EXPERIENCE
 
