@@ -1,19 +1,20 @@
 CURRICULUM VITAE
 ================
 
-I am a Full stack developer specialised in web development. 
-
-I have worked in backends for complex domains in health care, tourism and banking. I am thoughtful, open-minded, and I am always willing to learn.
+I am a Full Stack Senior Developer specialised in web development. 
+I have worked in backends for complex domains in health care, tourism, risk management or banking. 
+I am thoughtful, open-minded, and I am always willing to learn.
 
 ### SKILLS
 
-- Object oriented programming with Clean Code & Clean Architecture, SOLID and Testing.
-- PHP, Javascript, data modeling and APIs.
-- PhpUnit, Behat, Robot, Gherkin, Jasmine, Cypress.
-- Sql (Oracle and MySql), PL/Sql and ElasticSearch.
-- Agile environments, Scrum, Jenkins, CI & CD, Git, Gitlab, Github.
-- Zend, Laravel, FuelPhp and React.
-- I write code in my spare time using Java, Python, C, C#, Bash Shell Scripting, Node.js, Django, MongoDb, Angular, Rust, Clojure or Lisp. I experimented configuring an email server and deploying static sites with AWS, Google Cloud or Linode.
+- Object oriented programming: Clean Code, Clean Architecture, SOLID principles and Testing. Data modeling and APIs.
+- Languages: PHP, Javascript.
+- Testing tools: PhpUnit, Behat, Robot, Gherkin, Jasmine, Cypress.
+- Database: Mainly Sql (Oracle and MySql) and some noSql with MongoDb or ElasticSearch.
+- Processes: Agile environments, Scrum, Jenkins, CI & CD, Git, Gitlab, Github.
+- Frameworks: Zend, Laravel, FuelPhp and React.
+
+I write code in my spare time using Java, Python, C, C#, Bash Shell Scripting, Node.js, Django, MongoDb, Angular, Rust, Clojure or Lisp.
 
 ### EXPERIENCE
 
@@ -82,6 +83,5 @@ Distinction with honours.
 
 ### PUBLIC PROFILES
 
--   [Github](https://github.com/abrahandev)
--   [Twitter](https://twitter.com/abrahandev)
+-   [Github](https://github.com/abmesamesa)
 -   [LinkedIn](https://www.linkedin.com/in/abrahanmesa)
