@@ -1,22 +1,55 @@
 CURRICULUM VITAE
 ================
 
-I am a Full Stack Senior Developer specialised in web development. 
-I have worked in backends for complex domains in health care, tourism, risk management or banking. 
-I am thoughtful, open-minded, and I am always willing to learn.
+### Full Stack Senior Developer specialised in web development.
+Some roles I have assumed: Lead developer, full-stack developer, back-end developer, software architect, php developer or web developer.
+
+I have worked in backends for complex domains in health care, tourism, risk management or banking.   
+I am thoughtful, open-minded, and I am always willing to learn.  
 
 ### SKILLS
 
-- Programming: OOP, Clean Code, Clean Architecture, SOLID principles, Testing, data modeling and APIs.
-- Languages: PHP, Javascript.
-- Testing tools: PhpUnit, Cypress, Robot framework, Behat.
-- Database: MySql and some noSql with MongoDb and ElasticSearch.
-- Processes: Agile (Scrum), Jenkins, CI & CD, Git, GitlabCI.
-- Frameworks: Zend, Laravel, FuelPhp and some React and Angular.
+- Programming: 
+  - Software architecture (Ports and adapters, Clean Architecture)
+  - O.O.P.
+  - Clean Code
+  - S.O.L.I.D. principles
+  - Testing
+  - Data modeling
+  - RestFul APIs.
+- Languages: 
+  - PHP 
+  - Javascript
+  - Typescript 
+  - Some Java, Python, C, Bash, PL/Sql
+- Testing tools: 
+  - PhpUnit 
+  - Cypress
+  - Robot framework
+  - Behat
+- Database: 
+  - Sql (mostly MySql)
+  - Some noSql with MongoDb and ElasticSearch
+- Processes: 
+  - Agile (Scrum)
+  - CI & CD with GitLabCI
+  - Some Jenkins
+- Other tools    
+  - Git
+  - Docker  
+- Frameworks: 
+  - Laminas
+  - Angular
+  - Zend
+  - FuelPhp
+  - Some React, Laravel and Symfony
 
-I write code in my spare time using Java, Python, C, C#, Bash Shell Scripting, Node.js, Django, Rust, Clojure or Lisp.
+I write some code in my spare time using C#, Node.js, Django framework, Rust, Clojure or Lisp.
 
 ### EXPERIENCE
+
+Siradel, Lyon, France --- Lead developer\
+*JUNE 2020 -- Current*
 
 Sogexia, Lyon, France --- Full stack developer\
 *SEPTEMBER 2018 -- MAY 2020*
@@ -52,7 +85,7 @@ Keyrus, Madrid, Spain --- Business intelligence consultant\
 Dig it! Open source Systemhaus, Berlin, Germany --- Full stack developer (Internship)\
 *MARCH 2012 -- JUNE 2012*
 
-- I created a web-based management application for an entrepreneurs association in Berlin. I also created a WordPress plugin to build custom layouts from remote data.
+- I created a web-based management application for an entrepreneur's association in Berlin. I also created a WordPress plugin to build custom layouts from remote data.
 - I gave a presentation on the application, explaining its practical uses and talking about the Erasmus program.
 
 ### EDUCATION
