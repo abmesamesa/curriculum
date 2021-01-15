@@ -37,6 +37,12 @@ I am thoughtful, open-minded, and I am always willing to learn.
 - Other tools    
   - Git
   - Docker  
+  - AWS
+    - EC2 (Security groups, auto scaling...)
+    - ELB
+    - S3
+    - Route 53
+    - VPC
 - Frameworks: 
   - Laminas
   - Angular
